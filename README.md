@@ -1,0 +1,1 @@
+# tugas12_pengolahan_citra
